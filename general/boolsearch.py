@@ -1,3 +1,4 @@
+#To check the presence of an element in a list
 found = False
 print("Before", found)
 for i in [31,43,54,23,56,2,4,6,1,3,34,87,99,23]:
