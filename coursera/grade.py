@@ -1,7 +1,9 @@
+# To compute Grade
+# try block
 try:
-    s = raw_input("Enter your score:")
-    score = float(s)
-    if score > 1.0:
+    s = raw_input("Enter your score:") # user input
+    score = float(s) # Type conversion
+    if score > 1.0: 
         print("Enter valid input")
     elif 1.0 >= score>=0.9:
         print("A")
