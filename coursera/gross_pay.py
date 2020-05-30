@@ -1,10 +1,11 @@
+# To compute gross pay of electricity usage
 try:
-	h = raw_input("please input your hour:")
-	hour = float(h)
-	r = raw_input("please input your rate:")
+	h = raw_input("please input your hour:") # User input for hour
+	hour = float(h) # Type conversion
+	r = raw_input("please input your rate:") # User input for rate 
 	rate = float(r)
 	if hour < 0:
-		print("Please enter a valid number")
+		print("Please enter a valid number") # error message
 	elif rate < 0:
 		print("Please enter a valid number")
 	elif hour > 40:
