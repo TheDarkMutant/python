@@ -1,9 +1,9 @@
 # Determining the smallest and largest number entered
 largest = None
 smallest = None
-
+# indeterminate condition
 while True:
-    inp = input("Enter a number: ")
+    inp = input("Enter a number: ") # user input
     if inp == "done" : break
     try:
         num = float(inp)
