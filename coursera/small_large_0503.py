@@ -1,3 +1,4 @@
+# Determining the smallest and largest number entered
 largest = None
 smallest = None
 
