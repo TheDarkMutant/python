@@ -16,6 +16,6 @@ while True:
         largest = num
     elif num < smallest :
         smallest = num
-
+# Printing the smallest and largest numbers
 print ("Maximum is", int(largest))
 print ("Minimum is", int(smallest))
