@@ -3,6 +3,7 @@
 try:
     s = raw_input("Enter your score:") # user input
     score = float(s) # Type conversion
+# Conditional statement
     if score > 1.0: 
         print("Enter valid input")
     elif 1.0 >= score>=0.9:
