@@ -5,4 +5,5 @@ def add(a,b):
 a = int(input('Enter first operand: ')) 
 b = int(input('Enter first operand: '))
 c = add(a,b) # Invoking the function
+# Printing the sum value
 print('Sum is: ', c)
