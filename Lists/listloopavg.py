@@ -1,3 +1,4 @@
+# To determine average of numbers
 total = 0
 count = 0
 while True:
