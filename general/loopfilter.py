@@ -1,4 +1,4 @@
-# Filtering a list for desired output
+# Filtering a list 
 print('Before')
 for i in [9,41,12,3,74,15]:
     if i > 20:
