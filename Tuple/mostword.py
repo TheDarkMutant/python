@@ -1,3 +1,4 @@
+# To determine words used the most in a file
 fhand = open('romeo.txt')
 counts = dict()
 for line in fhand:
