@@ -1,5 +1,5 @@
 # To determine words used the most in a file
-fhand = open('romeo.txt')
+fhand = open('romeo.txt') # file open
 counts = dict()
 for line in fhand:
     words = line.split()
