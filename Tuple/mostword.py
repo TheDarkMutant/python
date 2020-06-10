@@ -11,4 +11,4 @@ for k,v in counts.items():
     lst.append(newtup) 
 lst = sorted(lst, reverse=True)
 for v,k in lst[:10]:
-    print(k,v)
+    print(k,v) # displaying the 10 most common words used in file along with their count
