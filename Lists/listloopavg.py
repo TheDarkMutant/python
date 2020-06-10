@@ -10,4 +10,5 @@ while True: #indeterminate loop
     count = count + 1
 # computing average
 average = total / count
-print('Average: ', average) 
+print('Average: ', average) # display results
+
