@@ -6,5 +6,5 @@ while True:
     value = float(inp)
     numlist.append(value)
 
-average = sum(numlist) / len(numlist)
+average = sum(numlist) / len(numlist) # inbuilt func invoke
 print('Average: ', average)
