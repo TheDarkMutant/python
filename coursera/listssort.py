@@ -14,4 +14,4 @@ for line in fh:
             lst.append(i)
 # sorting the words
 lst.sort()
-print(lst)
+print(lst) # Print the ordered list
