@@ -1,3 +1,4 @@
+# To arrange the words in a file alphabetically
 fname = input("Enter file name: ")
 if len(fname) == 0:
     fname = 'romeo.txt'
