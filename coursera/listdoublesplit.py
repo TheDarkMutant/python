@@ -1,4 +1,5 @@
-fname = input("Enter file name: ")
+# Illustraion of double split of list
+fname = input("Enter file name: ") 
 if len(fname) < 1 : fname = "mbox-short.txt"
 
 fh = open(fname)
