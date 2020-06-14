@@ -4,7 +4,7 @@ if len(fname) == 0:
     fname = 'romeo.txt'
 fh = open(fname)
 lst = list()
-# Iterates through each line in filehandle
+# Iterates through each line of the file
 for line in fh:
     #Iterates through each word on line
     for i in line.split():
