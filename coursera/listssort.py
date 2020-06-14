@@ -12,6 +12,6 @@ for line in fh:
         if not i in lst:
             # Appends words to list
             lst.append(i)
-
+# sorting the words
 lst.sort()
 print(lst)
