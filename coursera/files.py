@@ -1,3 +1,4 @@
+# Accessing and manipulaating files
 fname = input("Enter the file name: ")
 f = open(fname)
 for i in f:
