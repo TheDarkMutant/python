@@ -8,7 +8,7 @@ lst = list()
 for line in fh:
     #Iterates through each word in line
     for i in line.split():
-        #Checks to see if word is already in list
+        #Checks for the word repitition in file
         if not i in lst:
             #Appends words to list
             lst.append(i)
