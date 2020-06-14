@@ -6,7 +6,7 @@ fh = open(fname)
 lst = list()
 # Iterates through each line of the file
 for line in fh:
-    #Iterates through each word on line
+    #Iterates through each word in line
     for i in line.split():
         #Checks to see if word is already in list
         if not i in lst:
