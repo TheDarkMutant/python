@@ -2,5 +2,5 @@
 fname = input("Enter the file name: ") # user input
 f = open(fname) # file open
 for i in f:
-    i = i.rstrip().upper()
+    i = i.rstrip().upper() # convert to uppercase letters
     print(i)
