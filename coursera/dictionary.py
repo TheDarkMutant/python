@@ -1,6 +1,6 @@
 name = input("Enter file:") # User Input
 if len(name) < 1 : name = "mbox-short.txt"
-f = open(name) # 
+f = open(name) # file open
 
 dic = {}
 maxvalue = 0
