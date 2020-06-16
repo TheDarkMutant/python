@@ -15,4 +15,4 @@ try:
     elif 0.7 >score>=0.6:
         print("D")
 except:
-    print("Invalid input, enter a valid input")
+    print("Invalid input, enter a valid input") # error message
