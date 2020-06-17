@@ -1,7 +1,7 @@
 # Determining the smallest and largest number entered
 largest = None
 smallest = None
-# indeterminate condition
+# Indeterminate condition
 while True:
     inp = input("Enter a number: ") # user input
     if inp == "done" : break
