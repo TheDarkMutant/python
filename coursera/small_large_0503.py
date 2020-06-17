@@ -8,7 +8,7 @@ while True:
     try:
         num = float(inp)
     except:
-        print ("Invalid input")
+        print ("Invalid input") # Input validity
         continue
     if smallest is None:
         smallest = num
