@@ -16,5 +16,5 @@ r = float(rate)
 # Invoking the function
 p = computepay(h,r)
 
-# Displaying the result
+# Displaying the computation result
 print("Pay",p)
