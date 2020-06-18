@@ -13,7 +13,7 @@ h = float(hrs)
 rate = input("Enter the rate")
 r = float(rate)
 
-# Invoking function for computation
+# Invoking the function
 p = computepay(h,r)
 
 # Displaying the result
