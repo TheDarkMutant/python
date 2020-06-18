@@ -7,7 +7,7 @@ def computepay(h,r):
     else:
         return(h*r)
 
-# Taking inputs
+# User input
 hrs = input("Enter the number of hours")
 h = float(hrs)
 rate = input("Enter the rate")
