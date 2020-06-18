@@ -1,6 +1,6 @@
 name = 'sanjiv'
 index = 0
-# looping through strings - indeterminate loop [while]
+# looping through strings - Indeterminate loop [while]
 print('indeterminate loop:')
 while index < len(name):
     letter = name[index]
