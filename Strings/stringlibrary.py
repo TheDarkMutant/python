@@ -3,7 +3,7 @@ greet = ' Hello Sanjiv '
 
 zap = greet.lower()
 print(zap)
-# Converts the string  lowercase
+# Converts the string to lowercase
 
 large = greet.upper()
 print(large)
