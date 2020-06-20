@@ -3,14 +3,15 @@ greet = ' Hello Sanjiv '
 
 zap = greet.lower()
 print(zap)
-# Converts the string to lowercase
+# Converts the string to lowercase letters
 
 large = greet.upper()
 print(large)
-# Converts to uppercase
+# Converts the string to uppercase letters
 
 what_type = type(greet)
 print(what_type)
+# To print datatype
 
 what_dir = greet.find('lo')
 print(what_dir)
