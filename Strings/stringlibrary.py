@@ -19,7 +19,7 @@ print(what_dir)
 
 replace_name = greet.replace('Sanjiv', 'MC')
 print(replace_name)
-# It doesn't change the value of greet
+# Replaces only the specific substring and not the value 
 
 replace_letter = greet.replace('o', 'X')
 print(replace_letter)
