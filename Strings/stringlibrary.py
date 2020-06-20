@@ -1,8 +1,9 @@
-greet = ' Hello Bob '
+# Working with Strings
+greet = ' Hello Sanjiv '
 
 zap = greet.lower()
 print(zap)
-# Converts to lowercase
+# Converts the string  lowercase
 
 large = greet.upper()
 print(large)
