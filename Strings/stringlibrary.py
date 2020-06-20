@@ -15,7 +15,7 @@ print(what_type)
 
 what_dir = greet.find('lo')
 print(what_dir)
-# Where is this in the string.
+# To find a particular substring in the string.
 
 replace_name = greet.replace('Bob', 'Jane')
 print(replace_name)
