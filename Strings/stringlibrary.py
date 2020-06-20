@@ -25,7 +25,8 @@ replace_letter = greet.replace('o', 'X')
 print(replace_letter)
 # To replace a particular letter in the string
 
-strip_left = greet.lstrip()
+strip_left = greet.lstrip() 
+# Strips the trailing characters
 strip_right = greet.rstrip()
 strip_all = greet.strip()
 
