@@ -13,10 +13,10 @@ print(large)
 what_type = type(greet)
 print(what_type)
 
-
+# To find a particular substring in the string.
 what_dir = greet.find('lo')
 print(what_dir)
-# To find a particular substring in the string.
+
 
 replace_name = greet.replace('Sanjiv', 'MC')
 print(replace_name)
