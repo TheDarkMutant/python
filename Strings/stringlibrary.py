@@ -31,8 +31,9 @@ strip_left = greet.lstrip()
 # Strips the leading characters
 strip_right = greet.rstrip()
 
-strip_all = greet.strip()
 # Strips both leading and trailing characters
+strip_all = greet.strip()
+
 
 print(strip_all)
 print(strip_left)
