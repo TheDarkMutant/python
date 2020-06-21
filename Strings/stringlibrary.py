@@ -5,10 +5,10 @@ greet = ' Hello Sanjiv '
 zap = greet.lower()
 print(zap)
 
-
+# To convert the string into uppercase letters
 large = greet.upper()
 print(large)
-# Converts the string to uppercase letters
+
 
 what_type = type(greet)
 print(what_type)
