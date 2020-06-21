@@ -1,9 +1,10 @@
 # Working with Strings in python
 greet = ' Hello Sanjiv '
 
+# To convert the string into lowercase letters
 zap = greet.lower()
 print(zap)
-# Converts the string to lowercase letters
+
 
 large = greet.upper()
 print(large)
