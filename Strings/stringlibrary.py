@@ -34,7 +34,7 @@ strip_right = greet.rstrip()
 # Strips both leading and trailing characters
 strip_all = greet.strip()
 
-
+# Displaying the result of various strip() method
 print(strip_all)
 print(strip_left)
 print(strip_right)
