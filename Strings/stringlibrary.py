@@ -21,10 +21,10 @@ print(what_dir)
 replace_name = greet.replace('Sanjiv', 'MC')
 print(replace_name)
 
-
+# To replace a particular letter in the string
 replace_letter = greet.replace('o', 'X')
 print(replace_letter)
-# To replace a particular letter in the string
+
 
 strip_left = greet.lstrip() 
 # Strips the trailing characters
