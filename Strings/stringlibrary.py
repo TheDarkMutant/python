@@ -17,10 +17,10 @@ print(what_type)
 what_dir = greet.find('lo')
 print(what_dir)
 
-
+# Replaces only the specific substring and not the value 
 replace_name = greet.replace('Sanjiv', 'MC')
 print(replace_name)
-# Replaces only the specific substring and not the value 
+
 
 replace_letter = greet.replace('o', 'X')
 print(replace_letter)
