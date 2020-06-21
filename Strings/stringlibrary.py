@@ -28,8 +28,9 @@ print(replace_letter)
 # Strips the trailing characters
 strip_left = greet.lstrip() 
 
-strip_right = greet.rstrip()
 # Strips the leading characters
+strip_right = greet.rstrip()
+
 strip_all = greet.strip()
 # Strips both leading and trailing characters
 
