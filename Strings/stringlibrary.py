@@ -25,9 +25,9 @@ print(replace_name)
 replace_letter = greet.replace('o', 'X')
 print(replace_letter)
 
-
-strip_left = greet.lstrip() 
 # Strips the trailing characters
+strip_left = greet.lstrip() 
+
 strip_right = greet.rstrip()
 # Strips the leading characters
 strip_all = greet.strip()
