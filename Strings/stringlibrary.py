@@ -9,10 +9,10 @@ print(zap)
 large = greet.upper()
 print(large)
 
-
+# To print the datatype set or used
 what_type = type(greet)
 print(what_type)
-# To print datatype
+
 
 what_dir = greet.find('lo')
 print(what_dir)
