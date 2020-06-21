@@ -1,5 +1,6 @@
 import re
 
+# file open
 fhand = open('mbox-short.txt')
 
 # \S+ at least one non blank before and after @
