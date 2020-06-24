@@ -4,7 +4,7 @@ import re
 # opening the file
 fhand = open('mbox-short.txt')
 
-# 1. search()
+# search() method
 for line in fhand:
     line = line.rstrip()
     # Find 'From:' at the beginning of line
