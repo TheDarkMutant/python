@@ -2,6 +2,7 @@
 # importing regular expression library
 import re
 
+# open file
 fhand = open('mbox-short.txt')
 
 # SPAM CONFIDENCE Example
