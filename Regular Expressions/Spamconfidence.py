@@ -1,3 +1,4 @@
+# Extracting the highest value of spam confidence from a file
 import re
 
 fhand = open('mbox-short.txt')
