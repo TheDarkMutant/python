@@ -9,6 +9,7 @@ fhand = open('mbox-short.txt')
 numlist = list()
 for line in fhand:
     line = line.rstrip()
+    # extracting the values of spam confidence by searching
     stuff = re.findall('^X-DSPAM-Confidence: ([0-9.]+)', line)
     # skip those you don't find
     print(stuff)
