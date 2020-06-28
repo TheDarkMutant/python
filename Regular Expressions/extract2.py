@@ -1,6 +1,6 @@
 # importing regular expression library
 import re
-
+#file open
 fhand = open('mbox-short.txt')
 
 # Extracting only the domain
