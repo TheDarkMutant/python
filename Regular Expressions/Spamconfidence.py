@@ -17,4 +17,4 @@ for line in fhand:
         continue
     num = float(stuff[0])
     numlist.append(num)
-print('Maximium:', max(numlist))
+print('Maximium:', max(numlist)) # printing the max value of SPAM confidence
