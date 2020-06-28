@@ -7,7 +7,7 @@ fhand = open('mbox-short.txt')
 
 # \S+ at least one non blank before and after @
 # Greedy
-# ( ) give you what you're looking for
+# ( ) to give you what you're looking for
 # \S --> non-blank character
 line = 'From stephen@u.nus.edu do not'
 a = re.findall('^From (\S+@\S+)', line)
