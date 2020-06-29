@@ -1,5 +1,6 @@
 # importing regular expressions library
 import re
+# file open
 fhand = open('mbox-short.txt')
 # findall()
 x = 'my 2 favourite numbers are 19 and 24'
