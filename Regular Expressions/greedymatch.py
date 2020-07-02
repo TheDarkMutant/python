@@ -1,3 +1,4 @@
+# import regular expressions library
 import re
 
 fhand = open('mbox-short.txt')
