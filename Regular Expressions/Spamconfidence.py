@@ -1,8 +1,7 @@
 # Extracting the highest value of spam confidence from a file
 # importing regular expression library
 import re
-
-# open the file
+# opening the file
 fhand = open('mbox-short.txt')
 
 # SPAM CONFIDENCE Example
