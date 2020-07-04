@@ -1,7 +1,6 @@
 # Extracting only the mail id from the line
 # importing regular expressions library
 import re
-
 # file open
 fhand = open('mbox-short.txt')
 
