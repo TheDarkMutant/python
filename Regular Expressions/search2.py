@@ -1,6 +1,6 @@
 # importing regular expressions library
 import re
-
+# file open
 fhand = open('mbox-short.txt')
 
 # 1. search()
