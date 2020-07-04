@@ -1,6 +1,6 @@
 # import regular expressions library
 import re
-# file open
+# opening file
 fhand = open('mbox-short.txt')
 # Greedy matching expanding out to the max :
 x = 'From: Using the : character'
