@@ -1,7 +1,6 @@
 # importing regular expression library
 import re
-
-# file opening file
+# opening file
 fhand = open('mbox-short.txt')
 
 line = 'From stephen@u.nus.edu do not'
