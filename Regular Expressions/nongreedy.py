@@ -1,6 +1,6 @@
 # importing regular expressions library
 import re
-# file open
+# opening file
 fhand = open('mbox-short.txt')
 # Non-greedy matching to the nearest :
 x = 'From: Using the : character'
