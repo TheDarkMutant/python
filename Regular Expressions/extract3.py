@@ -1,6 +1,6 @@
 # importing regular expression library
 import re
-# opening file
+# opening the file
 fhand = open('mbox-short.txt')
 # applying alternate expression to extract the domain of the id
 line = 'From stephen@u.nus.edu do not'
