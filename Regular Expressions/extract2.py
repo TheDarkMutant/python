@@ -4,7 +4,7 @@ import re
 fhand = open('mbox-short.txt')
 # Extracting only the domain of the id
 line = 'From stephen@u.nus.edu do not'
-# find @ in line
+# to find @ in line
 # ( ) to give you what you're looking for
 # [^ ] non blank
 # * 0 or more
