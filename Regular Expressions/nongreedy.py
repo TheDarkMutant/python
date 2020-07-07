@@ -1,3 +1,4 @@
+# extraction based on non greedy approach, searches the nearest matches and terminates.
 # importing regular expressions library
 import re
 # opening file
